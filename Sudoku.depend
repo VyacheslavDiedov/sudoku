@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1570901254 source:e:\project sudoku\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	"generation.h"
+	"generation.c"
+	"game.c"
+	"gotoxy.c"
+	"console.c"
+	"print.c"
+
+1570134696 e:\project sudoku\sudoku\data.h
+
+1570134496 e:\project sudoku\sudoku\data.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Data.h"
+
+1570141405 source:e:\project sudoku\sudoku\generation.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"generation.h"
+
+1570901178 e:\project sudoku\sudoku\generation.h
+
+1570901215 e:\project sudoku\sudoku\generation.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"generation.h"
+
+1570803910 e:\project sudoku\sudoku\game.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"generation.h"
+
+1570138036 e:\project sudoku\sudoku\game.h
+
+1570808108 e:\project sudoku\sudoku\gotoxy.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"generation.h"
+
+1570891603 e:\project sudoku\sudoku\console.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"generation.h"
+
+1570145466 source:e:\project sudoku\sudoku\console.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"generation.h"
+
+1570146005 source:e:\project sudoku\sudoku\game.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"generation.h"
+
+1570141252 source:e:\project sudoku\sudoku\gotoxy.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"generation.h"
+
+1583256393 e:\project sudoku\sudoku\print.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"generation.h"
+
